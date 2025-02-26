@@ -1,0 +1,11 @@
+what is LAN WAN and MAN  ?
+
+ This is a client-server architecture i.e used to connect server 
+
+ 1) LAN : stands for local area network
+           
+ 2) WAN : stands wide area network 
+
+ 3) MAN : metropolitian area network
+
+ 
