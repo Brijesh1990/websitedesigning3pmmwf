@@ -1,0 +1,8 @@
+ what is xampp  ?
+  xampp is a server tools i.e used to run php backend programmes 
+  x=>cross plateform
+  A=>apache
+  M=>mysql
+  P=>perl
+  P=>php 
+ 

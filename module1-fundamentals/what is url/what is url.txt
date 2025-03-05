@@ -1,0 +1,20 @@
+what is url   ?
+  url stands for universal resource locator
+  url is form of ......
+  http://www.flipkart.com
+  url is open any website 
+
+types of URL ?
+
+a) absoulute url
+    when we open any website of home page that url is called absolute url
+
+       examples :  http://www.flipkart.com
+ 
+b) relative url:
+
+    when we open any website of multiple web pages that type of  url is called relative url
+
+       examples :  https://www.flipkart.com/account/login?ret=/viewcart
+ 
+  
